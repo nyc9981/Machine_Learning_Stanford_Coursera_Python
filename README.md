@@ -1,1 +1,3 @@
-# Machine_Learning_Stanford_Coursera_Python
+## Machine Learning Course  
+## By Dr. Andrew Ng (Stanford Uuniversity) at [Coursera](coursera.org)
+## Python Version
